@@ -1,7 +1,7 @@
 
 ## bootstrap-bower-accordion
 
-test
+test2
 This is the bower repository for the accordion component of of the [angular-ui/bootstrap project](https://github.com/angular-ui/bootstrap) project.
 
 ### Usage
